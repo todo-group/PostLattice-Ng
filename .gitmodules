@@ -1,0 +1,6 @@
+[submodule "inih"]
+	path = inih
+	url = https://github.com/xrq-phys/inih
+[submodule "lattice"]
+	path = lattice
+	url = https://github.com/todo-group/lattice
